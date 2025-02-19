@@ -31,3 +31,12 @@ print("data :", data_str, ", type :", type(data_str))
 
 data_bool = bool(data_int) 
 print("data :", data_bool, ", type :", type(data_bool))
+
+
+# Prioritas Operasi
+"""
+1. ()
+2. exponen **  
+3. perkalian dan teman-teman * / ** % //
+4. pertambahan dan pengurangan + -
+"""
