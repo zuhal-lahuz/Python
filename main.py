@@ -43,3 +43,5 @@ print("data :", data_bool, ", type :", type(data_bool))
 
 data_masukan = int(input("Masukan angka : "))
 print("data yang dimasukan adalah", data_masukan, "type :", type(data_masukan))
+
+# episode 9 yaa https://www.youtube.com/watch?v=SmiUsrGTnpY
