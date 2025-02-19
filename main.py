@@ -40,3 +40,6 @@ print("data :", data_bool, ", type :", type(data_bool))
 3. perkalian dan teman-teman * / ** % //
 4. pertambahan dan pengurangan + -
 """
+
+data_masukan = int(input("Masukan angka : "))
+print("data yang dimasukan adalah", data_masukan, "type :", type(data_masukan))
