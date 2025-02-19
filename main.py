@@ -11,6 +11,7 @@ b = 2
 print ("hasil penjumlahan a dan b adalah", a+b)
 print ("zuhal coba push")
 print ("namanya juga coba")
+print ("coba lagi boleh")
 
 print(time.time() - Start_time, "detik")
 #kalo mau compile
