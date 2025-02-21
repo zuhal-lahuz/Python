@@ -17,6 +17,6 @@ print("Suhu dalam Fahrenheit: ", fahrenheit, "\u00B0C")
 kelvin = celcius + 273
 print("Suhu dalam Kelvin: ", kelvin, "\u00B0C")
 
-
+# Penutup code
 
 
